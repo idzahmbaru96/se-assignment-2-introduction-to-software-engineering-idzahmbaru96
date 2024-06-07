@@ -7,6 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+	Software engineering is a systematic approach to the creation, operation, and maintenance of software. It includes a variety of strategies, methods, and tools for ensuring that software is dependable, efficient, and satisfies user expectations.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
